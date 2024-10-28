@@ -17,4 +17,9 @@ This model takes as input an Sparse Matrix (CSR) of user-artists interactions.
 
 ## Usage
 
-Uses [uv](https://docs.astral.sh/uv/) to describe project dependencies.
+Uses [uv](https://docs.astral.sh/uv/) to describe project dependencies.ç
+
+
+## Future Work
+
+Be able to access Spotify's data to get the user-artists interactions.
