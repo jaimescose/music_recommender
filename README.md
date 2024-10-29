@@ -2,7 +2,7 @@
 
 ## Dataset
 
-Original dataste can be foundd [here](https://grouplens.org/datasets/hetrec-2011/).
+Original dataset can be foundd [here](https://grouplens.org/datasets/hetrec-2011/).
 However, for convenience, I have uploaded just the files that I used in this project: 
 
 - artists.dat: matches artist id to name and other information (not relavant for this project)
